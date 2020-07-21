@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <redlogistic>
+                <active>1</active>
+                <title>Red Logistic</title>
+                <name>Red Logistic</name>
+                <shipping_cost>1500</shipping_cost>
+                <sallowspecific>0</sallowspecific>
+                <sort_order>15</sort_order>
+                <model>Bananacode\RedLogistic\Model\Carrier\RedLogistic</model>
+            </redlogistic>
+        </carriers>
+    </default>
+</config>

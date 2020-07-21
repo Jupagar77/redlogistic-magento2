@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="carriers">
+            <group id="redlogistic" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Red Logistic</label>
+                <field id="active" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="0" canRestore="1">
+                    <label>Enabled</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+
+                <field id="coupon" translate="label" type="text" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Free Shipping Coupon</label>
+                </field>
+
+                <field id="url" translate="label" type="text" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Service URL</label>
+                </field>
+                <field id="sandbox_enabled" translate="label" type="select" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Sandbox Enabled</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+                <field id="token" translate="label" type="obscure" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Token</label>
+                    <backend_model>Magento\Config\Model\Config\Backend\Encrypted</backend_model>
+                </field>
+
+                <field id="sandbox_user" translate="label" type="text" sortOrder="6" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Sandbox User</label>
+                </field>
+                <field id="sandbox_pass" translate="label" type="obscure" sortOrder="7" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Sandbox Password</label>
+                    <backend_model>Magento\Config\Model\Config\Backend\Encrypted</backend_model>
+                </field>
+                <field id="production_user" translate="label" type="text" sortOrder="8" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Production User</label>
+                </field>
+                <field id="production_pass" translate="label" type="obscure" sortOrder="9" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Production Password</label>
+                    <backend_model>Magento\Config\Model\Config\Backend\Encrypted</backend_model>
+                </field>
+
+                <field id="title" translate="label" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Title</label>
+                </field>
+                <field id="name" translate="label" type="text" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Method Name</label>
+                </field>
+
+                <field id="shipping_cost" translate="label" type="text" sortOrder="40" showInDefault="1" showInWebsite="1" showInStore="0" >
+                    <label>Shipping Cost (GAM)</label>
+                    <validate>validate-number validate-zero-or-greater</validate>
+                </field>
+                <field id="shipping_cost_kg" translate="label" type="text" sortOrder="40" showInDefault="1" showInWebsite="1" showInStore="0" >
+                    <label>Shipping Cost Kg</label>
+                    <validate>validate-number validate-zero-or-greater</validate>
+                </field>
+
+                <field id="shipping_cost_out" translate="label" type="text" sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="0" >
+                    <label>Shipping Cost (No GAM)</label>
+                    <validate>validate-number validate-zero-or-greater</validate>
+                </field>
+                <field id="shipping_cost_out_kg" translate="label" type="text" sortOrder="50" showInDefault="1" showInWebsite="1" showInStore="0" >
+                    <label>Shipping Cost (No GAM) Kg</label>
+                    <validate>validate-number validate-zero-or-greater</validate>
+                </field>
+
+                <field id="shipping_cost_special" translate="label" type="text" sortOrder="60" showInDefault="1" showInWebsite="1" showInStore="0" >
+                    <label>Shipping Cost (Special)</label>
+                    <validate>validate-number validate-zero-or-greater</validate>
+                </field>
+                <field id="shipping_cost_special_kg" translate="label" type="text" sortOrder="60" showInDefault="1" showInWebsite="1" showInStore="0" >
+                    <label>Shipping Cost (Special) Kg</label>
+                    <validate>validate-number validate-zero-or-greater</validate>
+                </field>
+
+                <field id="sallowspecific" translate="label" type="select" sortOrder="70" showInDefault="1" showInWebsite="1" showInStore="0" canRestore="1">
+                    <label>Ship to Applicable Countries</label>
+                    <frontend_class>shipping-applicable-country</frontend_class>
+                    <source_model>Magento\Shipping\Model\Config\Source\Allspecificcountries</source_model>
+                </field>
+                <field id="specificcountry" translate="label" type="multiselect" sortOrder="70" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Ship to Specific Countries</label>
+                    <source_model>Magento\Directory\Model\Config\Source\Country</source_model>
+                    <can_be_empty>1</can_be_empty>
+                </field>
+                <field id="showmethod" translate="label" type="select" sortOrder="80" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Show Method if Not Applicable</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <frontend_class>shipping-skip-hide</frontend_class>
+                </field>
+                <field id="sort_order" translate="label" type="text" sortOrder="90" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Sort Order</label>
+                </field>
+
+                <field id="company_name" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Company Name</label>
+                </field>
+                <field id="city" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>City</label>
+                </field>
+                <field id="address" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Address</label>
+                </field>
+                <field id="observations" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Pickup Observations</label>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

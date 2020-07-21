@@ -1,0 +1,3404 @@
+[
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tibás",
+    "DISTRITO": "León XIII",
+    "CODIGO": 11304,
+    "ESTATUS": "ESPECIAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Matina",
+    "DISTRITO": "Batán",
+    "CODIGO": 70502,
+    "ESTATUS": "ESPECIAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Duacarí",
+    "CODIGO": 70605,
+    "ESTATUS": "ESPECIAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Santiago",
+    "CODIGO": 10401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Mercedes Sur",
+    "CODIGO": 10402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Barbacoas",
+    "CODIGO": 10403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Grifo Alto",
+    "CODIGO": 10404,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 10405,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Candelarita",
+    "CODIGO": 10406,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Desamparaditos",
+    "CODIGO": 10407,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 10408,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Puriscal",
+    "DISTRITO": "Chires",
+    "CODIGO": 10409,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tarrazú",
+    "DISTRITO": "San Marcos",
+    "CODIGO": 10501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tarrazú",
+    "DISTRITO": "San Lorenzo",
+    "CODIGO": 10502,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tarrazú",
+    "DISTRITO": "San Carlos",
+    "CODIGO": 10503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Aserrí",
+    "CODIGO": 10601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Tarbaca",
+    "CODIGO": 10602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Vuelta de Jorco",
+    "CODIGO": 10603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "San Gabriel",
+    "CODIGO": 10604,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Legua",
+    "CODIGO": 10605,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Monterrey",
+    "CODIGO": 10606,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Aserrí",
+    "DISTRITO": "Salitrillos",
+    "CODIGO": 10607,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Colón",
+    "CODIGO": 10701,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Guayabo",
+    "CODIGO": 10702,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Tabarcia",
+    "CODIGO": 10703,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Piedras Negras",
+    "CODIGO": 10704,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Picagres",
+    "CODIGO": 10705,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Jaris",
+    "CODIGO": 10706,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Mora",
+    "DISTRITO": "Quitirrisí",
+    "CODIGO": 10707,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Acosta",
+    "DISTRITO": "San Ignacio",
+    "CODIGO": 11201,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Acosta",
+    "DISTRITO": "Guaitil",
+    "CODIGO": 11202,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Acosta",
+    "DISTRITO": "Palmichal",
+    "CODIGO": 11203,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Acosta",
+    "DISTRITO": "Cangrejal",
+    "CODIGO": 11204,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Acosta",
+    "DISTRITO": "Sabanillas",
+    "CODIGO": 11205,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Turrubares",
+    "DISTRITO": "San Pablo",
+    "CODIGO": 11601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Turrubares",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 11602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Turrubares",
+    "DISTRITO": "San Juan de Mata",
+    "CODIGO": 11603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Turrubares",
+    "DISTRITO": "San Luis",
+    "CODIGO": 11604,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Turrubares",
+    "DISTRITO": "Carara",
+    "CODIGO": 11605,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Dota",
+    "DISTRITO": "Santa María",
+    "CODIGO": 11701,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Dota",
+    "DISTRITO": "Jardín",
+    "CODIGO": 11702,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Dota",
+    "DISTRITO": "Copey",
+    "CODIGO": 11703,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "San Isidro de El General",
+    "CODIGO": 11901,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "El General",
+    "CODIGO": 11902,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Daniel Flores",
+    "CODIGO": 11903,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Rivas",
+    "CODIGO": 11904,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 11905,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Platanares",
+    "CODIGO": 11906,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Pejibaye",
+    "CODIGO": 11907,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Cajón",
+    "CODIGO": 11908,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Barú",
+    "CODIGO": 11909,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Río Nuevo",
+    "CODIGO": 11910,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "Páramo",
+    "CODIGO": 11911,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Pérez Zeledón",
+    "DISTRITO": "La Amistad",
+    "CODIGO": 11912,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "León Cortés Castro",
+    "DISTRITO": "San Pablo",
+    "CODIGO": 12001,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "León Cortés Castro",
+    "DISTRITO": "San Andrés",
+    "CODIGO": 12002,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "León Cortés Castro",
+    "DISTRITO": "Llano Bonito",
+    "CODIGO": 12003,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "León Cortés Castro",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 12004,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "León Cortés Castro",
+    "DISTRITO": "Santa Cruz",
+    "CODIGO": 12005,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "León Cortés Castro",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 12006,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Desamparados",
+    "CODIGO": 20110,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Turrúcares",
+    "CODIGO": 20111,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Tambor",
+    "CODIGO": 20112,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Garita",
+    "CODIGO": 20113,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Sarapiquí",
+    "CODIGO": 20114,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "San Ramón",
+    "CODIGO": 20201,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Santiago",
+    "CODIGO": 20202,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "San Juan",
+    "CODIGO": 20203,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Piedades Norte",
+    "CODIGO": 20204,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Piedades Sur",
+    "CODIGO": 20205,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 20206,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 20207,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Los Ángeles",
+    "CODIGO": 20208,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Alfaro",
+    "CODIGO": 20209,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Volio",
+    "CODIGO": 20210,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Concepción",
+    "CODIGO": 20211,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Zapotal",
+    "CODIGO": 20212,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "Peñas Blancas",
+    "CODIGO": 20213,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Ramón",
+    "DISTRITO": "San Lorenzo",
+    "CODIGO": 20214,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Grecia",
+    "CODIGO": 20301,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 20302,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "San José",
+    "CODIGO": 20303,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "San Roque",
+    "CODIGO": 20304,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Tacares",
+    "CODIGO": 20305,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Puente de Piedra",
+    "CODIGO": 20307,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Grecia",
+    "DISTRITO": "Bolívar",
+    "CODIGO": 20308,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Mateo",
+    "DISTRITO": "San Mateo",
+    "CODIGO": 20401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Mateo",
+    "DISTRITO": "Desmonte",
+    "CODIGO": 20402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Mateo",
+    "DISTRITO": "Jesús María",
+    "CODIGO": 20403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Mateo",
+    "DISTRITO": "Labrador",
+    "CODIGO": 20404,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Atenas",
+    "CODIGO": 20501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Jesús",
+    "CODIGO": 20502,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Mercedes",
+    "CODIGO": 20503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 20504,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Concepción",
+    "CODIGO": 20505,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "San José",
+    "CODIGO": 20506,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Santa Eulalia",
+    "CODIGO": 20507,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Atenas",
+    "DISTRITO": "Escobal",
+    "CODIGO": 20508,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "Naranjo",
+    "CODIGO": 20601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "San Miguel",
+    "CODIGO": 20602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "San José",
+    "CODIGO": 20603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "Cirrí Sur",
+    "CODIGO": 20604,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "San Jerónimo",
+    "CODIGO": 20605,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "San Juan",
+    "CODIGO": 20606,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "El Rosario",
+    "CODIGO": 20607,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Naranjo",
+    "DISTRITO": "Palmitos",
+    "CODIGO": 20608,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Palmares",
+    "CODIGO": 20701,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Zaragoza",
+    "CODIGO": 20702,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Buenos Aires",
+    "CODIGO": 20703,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Santiago",
+    "CODIGO": 20704,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Candelaria",
+    "CODIGO": 20705,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "Esquipulas",
+    "CODIGO": 20706,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Palmares",
+    "DISTRITO": "La Granja",
+    "CODIGO": 20707,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 20801,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "San Juan",
+    "CODIGO": 20802,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 20803,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "Carrillos",
+    "CODIGO": 20804,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Poás",
+    "DISTRITO": "Sabana Redonda",
+    "CODIGO": 20805,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "Orotina",
+    "CODIGO": 20901,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "El Mastate",
+    "CODIGO": 20902,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "Hacienda Vieja",
+    "CODIGO": 20903,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "Coyolar",
+    "CODIGO": 20904,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Orotina",
+    "DISTRITO": "La Ceiba",
+    "CODIGO": 20905,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Quesada",
+    "CODIGO": 21001,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Florencia",
+    "CODIGO": 21002,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Buenavista",
+    "CODIGO": 21003,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Aguas Zarcas",
+    "CODIGO": 21004,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Venecia",
+    "CODIGO": 21005,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Pital",
+    "CODIGO": 21006,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "La Fortuna",
+    "CODIGO": 21007,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "La Tigra",
+    "CODIGO": 21008,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "La Palmera",
+    "CODIGO": 21009,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Venado",
+    "CODIGO": 21010,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Cutris",
+    "CODIGO": 21011,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Monterrey",
+    "CODIGO": 21012,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "San Carlos",
+    "DISTRITO": "Pocosol",
+    "CODIGO": 21013,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Zarcero",
+    "CODIGO": 21101,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Laguna",
+    "CODIGO": 21102,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Tapezco",
+    "CODIGO": 21103,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Guadalupe",
+    "CODIGO": 21104,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Palmira",
+    "CODIGO": 21105,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Zapote",
+    "CODIGO": 21106,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Zarcero",
+    "DISTRITO": "Brisas",
+    "CODIGO": 21107,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "Sarchí Norte",
+    "CODIGO": 21201,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "Sarchí Sur",
+    "CODIGO": 21202,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "Toro Amarillo",
+    "CODIGO": 21203,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 21204,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Sarchí",
+    "DISTRITO": "Rodríguez",
+    "CODIGO": 21205,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Upala",
+    "CODIGO": 21301,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Aguas Claras",
+    "CODIGO": 21302,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "San José o Pizote",
+    "CODIGO": 21303,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Bijagua",
+    "CODIGO": 21304,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Delicias",
+    "CODIGO": 21305,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Dos Ríos",
+    "CODIGO": 21306,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Yolillal",
+    "CODIGO": 21307,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Upala",
+    "DISTRITO": "Canalete",
+    "CODIGO": 21308,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Los Chiles",
+    "DISTRITO": "Los Chiles",
+    "CODIGO": 21401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Los Chiles",
+    "DISTRITO": "Caño Negro",
+    "CODIGO": 21402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Los Chiles",
+    "DISTRITO": "El Amparo",
+    "CODIGO": 21403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Los Chiles",
+    "DISTRITO": "San Jorge",
+    "CODIGO": 21404,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 21501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "Buenavista",
+    "CODIGO": 21502,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "Cote",
+    "CODIGO": 21503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Guatuso",
+    "DISTRITO": "Katira",
+    "CODIGO": 21504,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Río Cuarto",
+    "DISTRITO": "Río Cuarto",
+    "CODIGO": 21601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Río Cuarto",
+    "DISTRITO": "Santa Rita",
+    "CODIGO": 21602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Río Cuarto",
+    "DISTRITO": "Santa Isabel",
+    "CODIGO": 21603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "Juan Viñas",
+    "CODIGO": 30401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "Tucurrique",
+    "CODIGO": 30402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Jiménez",
+    "DISTRITO": "Pejibaye",
+    "CODIGO": 30403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Turrialba",
+    "CODIGO": 30501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "La Suiza",
+    "CODIGO": 30502,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Peralta",
+    "CODIGO": 30503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Santa Cruz",
+    "CODIGO": 30504,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Santa Teresita",
+    "CODIGO": 30505,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Pavones",
+    "CODIGO": 30506,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Tuis",
+    "CODIGO": 30507,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Tayutic",
+    "CODIGO": 30508,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Santa Rosa",
+    "CODIGO": 30509,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Tres Equis",
+    "CODIGO": 30510,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "La Isabel",
+    "CODIGO": 30511,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Turrialba",
+    "DISTRITO": "Chirripó",
+    "CODIGO": 30512,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Alvarado",
+    "DISTRITO": "Pacayas",
+    "CODIGO": 30601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Alvarado",
+    "DISTRITO": "Cervantes",
+    "CODIGO": 30602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Alvarado",
+    "DISTRITO": "Capellades",
+    "CODIGO": 30603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Pablo",
+    "DISTRITO": "Rincón de Sabanilla",
+    "CODIGO": 40902,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "Puerto Viejo",
+    "CODIGO": 41001,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "La Virgen",
+    "CODIGO": 41002,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "Horquetas",
+    "CODIGO": 41003,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "Llanuras del Gaspar",
+    "CODIGO": 41004,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Sarapiquí",
+    "DISTRITO": "Cureña",
+    "CODIGO": 41005,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Liberia",
+    "CODIGO": 50101,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Cañas Dulces",
+    "CODIGO": 50102,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Mayorga",
+    "CODIGO": 50103,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Nacascolo",
+    "CODIGO": 50104,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Liberia",
+    "DISTRITO": "Curubandé",
+    "CODIGO": 50105,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Nicoya",
+    "CODIGO": 50201,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Mansion",
+    "CODIGO": 50202,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 50203,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Quebrada Honda",
+    "CODIGO": 50204,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Samara",
+    "CODIGO": 50205,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Nosara",
+    "CODIGO": 50206,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nicoya",
+    "DISTRITO": "Belén de Nosarita",
+    "CODIGO": 50207,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Santa Cruz",
+    "CODIGO": 50301,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Bolsón",
+    "CODIGO": 50302,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Veintisiete de Abril",
+    "CODIGO": 50303,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Tempate",
+    "CODIGO": 50304,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Cartagena",
+    "CODIGO": 50305,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Cuajiniquil",
+    "CODIGO": 50306,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Diria",
+    "CODIGO": 50307,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Cabo Velas",
+    "CODIGO": 50308,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Santa Cruz",
+    "DISTRITO": "Tamarindo",
+    "CODIGO": 50309,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "Bagaces",
+    "CODIGO": 50401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "Fortuna",
+    "CODIGO": 50402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "Mogote",
+    "CODIGO": 50403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Bagaces",
+    "DISTRITO": "Río Naranjo",
+    "CODIGO": 50404,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Filadelfia",
+    "CODIGO": 50501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Palmira",
+    "CODIGO": 50502,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Sardinal",
+    "CODIGO": 50503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Carrillo",
+    "DISTRITO": "Belén",
+    "CODIGO": 50504,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Cañas",
+    "CODIGO": 50601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Palmira",
+    "CODIGO": 50602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "San Miguel",
+    "CODIGO": 50603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Bebedero",
+    "CODIGO": 50604,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Cañas",
+    "DISTRITO": "Porozal",
+    "CODIGO": 50605,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "Las Juntas",
+    "CODIGO": 50701,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "Sierra",
+    "CODIGO": 50702,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "San Juan",
+    "CODIGO": 50703,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Abangares",
+    "DISTRITO": "Colorado",
+    "CODIGO": 50704,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Tilarán",
+    "CODIGO": 50801,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Quebrada Grande",
+    "CODIGO": 50802,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Tronadora",
+    "CODIGO": 50803,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Santa Rosa",
+    "CODIGO": 50804,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Líbano",
+    "CODIGO": 50805,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Tierras Morenas",
+    "CODIGO": 50806,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Tilarán",
+    "DISTRITO": "Arenal",
+    "CODIGO": 50807,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Carmona",
+    "CODIGO": 50901,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Santa Rita",
+    "CODIGO": 50902,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Zapotal",
+    "CODIGO": 50903,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "San Pablo",
+    "CODIGO": 50904,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Porvenir",
+    "CODIGO": 50905,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Nandayure",
+    "DISTRITO": "Bejuco",
+    "CODIGO": 50906,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "La Cruz",
+    "DISTRITO": "La Cruz",
+    "CODIGO": 51001,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "La Cruz",
+    "DISTRITO": "Santa Cecilia",
+    "CODIGO": 51002,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "La Cruz",
+    "DISTRITO": "Garita",
+    "CODIGO": 51003,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "La Cruz",
+    "DISTRITO": "Santa Elena",
+    "CODIGO": 51004,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Hojancha",
+    "CODIGO": 51101,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Monte Romo",
+    "CODIGO": 51102,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Puerto Carrillo",
+    "CODIGO": 51103,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Huacas",
+    "CODIGO": 51104,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Guanacaste",
+    "CANTON": "Hojancha",
+    "DISTRITO": "Matambú",
+    "CODIGO": 51105,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Puntarenas",
+    "CODIGO": 60101,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Pitahaya",
+    "CODIGO": 60102,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Chomes",
+    "CODIGO": 60103,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Lepanto",
+    "CODIGO": 60104,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Paquera",
+    "CODIGO": 60105,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Manzanillo",
+    "CODIGO": 60106,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Guacimal",
+    "CODIGO": 60107,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Barranca",
+    "CODIGO": 60108,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Monte Verde",
+    "CODIGO": 60109,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Isla del Coco",
+    "CODIGO": 60110,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Cobano",
+    "CODIGO": 60111,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Chacarita",
+    "CODIGO": 60112,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Chira",
+    "CODIGO": 60113,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Acapulco",
+    "CODIGO": 60114,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "El Roble",
+    "CODIGO": 60115,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Puntarenas",
+    "DISTRITO": "Arancibia",
+    "CODIGO": 60116,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "Espíritu Santo",
+    "CODIGO": 60201,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "San Juan Grande",
+    "CODIGO": 60202,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "Macacona",
+    "CODIGO": 60203,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 60204,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "San Jerónimo",
+    "CODIGO": 60205,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Esparza",
+    "DISTRITO": "Caldera",
+    "CODIGO": 60206,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Buenos Aires",
+    "CODIGO": 60301,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Volcan",
+    "CODIGO": 60302,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Potrero Grande",
+    "CODIGO": 60303,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Boruca",
+    "CODIGO": 60304,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Pilas",
+    "CODIGO": 60305,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Colinas",
+    "CODIGO": 60306,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Changena",
+    "CODIGO": 60307,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Briolley",
+    "CODIGO": 60308,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Buenos Aires",
+    "DISTRITO": "Brunka",
+    "CODIGO": 60309,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Montes de Oro",
+    "DISTRITO": "Miramar",
+    "CODIGO": 60401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Montes de Oro",
+    "DISTRITO": "La Unión",
+    "CODIGO": 60402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Montes de Oro",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 60403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Puerto Cortés",
+    "CODIGO": 60501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Palmar",
+    "CODIGO": 60502,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Sierpe",
+    "CODIGO": 60503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Bahia Ballena",
+    "CODIGO": 60504,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Piedras Blancas",
+    "CODIGO": 60505,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Osa",
+    "DISTRITO": "Bahía Drake",
+    "CODIGO": 60506,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Quepos",
+    "DISTRITO": "Quepos",
+    "CODIGO": 60601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Quepos",
+    "DISTRITO": "Savegre",
+    "CODIGO": 60602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Quepos",
+    "DISTRITO": "Naranjito",
+    "CODIGO": 60603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Golfito",
+    "CODIGO": 60701,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Puerto Jiménez",
+    "CODIGO": 60702,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Guaycará",
+    "CODIGO": 60703,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Golfito",
+    "DISTRITO": "Pavón",
+    "CODIGO": 60704,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Coto Brus",
+    "DISTRITO": "San Vito",
+    "CODIGO": 60801,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Coto Brus",
+    "DISTRITO": "Sabalito",
+    "CODIGO": 60802,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Coto Brus",
+    "DISTRITO": "Aguabuena",
+    "CODIGO": 60803,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Coto Brus",
+    "DISTRITO": "Limóncito",
+    "CODIGO": 60804,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Coto Brus",
+    "DISTRITO": "Pittier",
+    "CODIGO": 60805,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Coto Brus",
+    "DISTRITO": "Gutiérrez Braun",
+    "CODIGO": 60806,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Parrita",
+    "DISTRITO": "Parrita",
+    "CODIGO": 60901,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "Corredor",
+    "CODIGO": 61001,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "La Cuesta",
+    "CODIGO": 61002,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "Canoas",
+    "CODIGO": 61003,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Corredores",
+    "DISTRITO": "Laurel",
+    "CODIGO": 61004,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Garabito",
+    "DISTRITO": "Jacó",
+    "CODIGO": 61101,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Puntarenas",
+    "CANTON": "Garabito",
+    "DISTRITO": "Tarcoles",
+    "CODIGO": 61102,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "Limón",
+    "CODIGO": 70101,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "Valle La Estrella",
+    "CODIGO": 70102,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "Río Blanco",
+    "CODIGO": 70103,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Limón",
+    "DISTRITO": "Matama",
+    "CODIGO": 70104,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Guápiles",
+    "CODIGO": 70201,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Jiménez",
+    "CODIGO": 70202,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "La Rita",
+    "CODIGO": 70203,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Roxana",
+    "CODIGO": 70204,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Cariari",
+    "CODIGO": 70205,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "Colorado",
+    "CODIGO": 70206,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Pococí",
+    "DISTRITO": "La Colonia",
+    "CODIGO": 70207,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Siquirres",
+    "CODIGO": 70301,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Pacuarito",
+    "CODIGO": 70302,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Florida",
+    "CODIGO": 70303,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Germania",
+    "CODIGO": 70304,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Cairo",
+    "CODIGO": 70305,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Siquirres",
+    "DISTRITO": "Alegría",
+    "CODIGO": 70306,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Bratsi",
+    "CODIGO": 70401,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Sixaola",
+    "CODIGO": 70402,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Cahuita",
+    "CODIGO": 70403,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Talamanca",
+    "DISTRITO": "Telire",
+    "CODIGO": 70404,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Matina",
+    "DISTRITO": "Matina",
+    "CODIGO": 70501,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Matina",
+    "DISTRITO": "Carrandí",
+    "CODIGO": 70503,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Guácimo",
+    "CODIGO": 70601,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Mercedes",
+    "CODIGO": 70602,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Pocora",
+    "CODIGO": 70603,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "Limón",
+    "CANTON": "Guácimo",
+    "DISTRITO": "Río Jiménez",
+    "CODIGO": 70604,
+    "ESTATUS": "RURAL"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Carmen",
+    "CODIGO": 10101,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Merced",
+    "CODIGO": 10102,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Hospital",
+    "CODIGO": 10103,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Catedral",
+    "CODIGO": 10104,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Zapote",
+    "CODIGO": 10105,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "San Francisco de Dos Ríos",
+    "CODIGO": 10106,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Uruca",
+    "CODIGO": 10107,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Mata Redonda",
+    "CODIGO": 10108,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Pavas",
+    "CODIGO": 10109,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "Hatillo",
+    "CODIGO": 10110,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "San José",
+    "DISTRITO": "San Sebastián",
+    "CODIGO": 10111,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Escazú",
+    "DISTRITO": "Escazú",
+    "CODIGO": 10201,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Escazú",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 10202,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Escazú",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 10203,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Desamparados",
+    "CODIGO": 10301,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "San Miguel",
+    "CODIGO": 10302,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "San Juan de Dios",
+    "CODIGO": 10303,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "San Rafael Arriba",
+    "CODIGO": 10304,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 10305,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Frailes",
+    "CODIGO": 10306,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Patarrá",
+    "CODIGO": 10307,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "San Cristóbal",
+    "CODIGO": 10308,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Rosario",
+    "CODIGO": 10309,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Damas",
+    "CODIGO": 10310,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "San Rafael Abajo",
+    "CODIGO": 10311,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Gravilias",
+    "CODIGO": 10312,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Desamparados",
+    "DISTRITO": "Los Guido",
+    "CODIGO": 10313,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Guadalupe",
+    "CODIGO": 10801,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "San Francisco",
+    "CODIGO": 10802,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Calle Blancos",
+    "CODIGO": 10803,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Mata de Plátano",
+    "CODIGO": 10804,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Ipís",
+    "CODIGO": 10805,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Rancho Redondo",
+    "CODIGO": 10806,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Goicoechea",
+    "DISTRITO": "Purral",
+    "CODIGO": 10807,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Santa Ana",
+    "DISTRITO": "Santa Ana",
+    "CODIGO": 10901,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Santa Ana",
+    "DISTRITO": "Salitral",
+    "CODIGO": 10902,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Santa Ana",
+    "DISTRITO": "Pozos",
+    "CODIGO": 10903,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Santa Ana",
+    "DISTRITO": "Uruca",
+    "CODIGO": 10904,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Santa Ana",
+    "DISTRITO": "Piedades",
+    "CODIGO": 10905,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Santa Ana",
+    "DISTRITO": "Brasil",
+    "CODIGO": 10906,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "Alajuelita",
+    "CODIGO": 11001,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "San Josecito",
+    "CODIGO": 11002,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 11003,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "Concepción",
+    "CODIGO": 11004,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Alajuelita",
+    "DISTRITO": "San Felipe",
+    "CODIGO": 11005,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Vásquez de Coronado",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 11101,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Vásquez de Coronado",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 11102,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Vásquez de Coronado",
+    "DISTRITO": "Dulce Nombre de Jesús",
+    "CODIGO": 11103,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Vásquez de Coronado",
+    "DISTRITO": "Patalillo",
+    "CODIGO": 11104,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Vásquez de Coronado",
+    "DISTRITO": "Cascajal",
+    "CODIGO": 11105,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tibás",
+    "DISTRITO": "San Juan",
+    "CODIGO": 11301,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tibás",
+    "DISTRITO": "Cinco Esquinas",
+    "CODIGO": 11302,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tibás",
+    "DISTRITO": "Anselmo Llorente",
+    "CODIGO": 11303,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Tibás",
+    "DISTRITO": "Colima",
+    "CODIGO": 11305,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Moravia",
+    "DISTRITO": "San Vicente",
+    "CODIGO": 11401,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Moravia",
+    "DISTRITO": "San Jerónimo",
+    "CODIGO": 11402,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Moravia",
+    "DISTRITO": "La Trinidad",
+    "CODIGO": 11403,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Montes de Oca",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 11501,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Montes de Oca",
+    "DISTRITO": "Sabanilla",
+    "CODIGO": 11502,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Montes de Oca",
+    "DISTRITO": "Mercedes",
+    "CODIGO": 11503,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Montes de Oca",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 11504,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Curridabat",
+    "CODIGO": 11801,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Granadilla",
+    "CODIGO": 11802,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Sánchez",
+    "CODIGO": 11803,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "San José",
+    "CANTON": "Curridabat",
+    "DISTRITO": "Tirrases",
+    "CODIGO": 11804,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Alajuela",
+    "CODIGO": 20101,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "San José",
+    "CODIGO": 20102,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Carrizal",
+    "CODIGO": 20103,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 20104,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Guácima",
+    "CODIGO": 20105,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 20106,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Sabanilla",
+    "CODIGO": 20107,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 20108,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Alajuela",
+    "CANTON": "Alajuela",
+    "DISTRITO": "Río Segundo",
+    "CODIGO": 20109,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Oriental",
+    "CODIGO": 30101,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Occidental",
+    "CODIGO": 30102,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Carmen",
+    "CODIGO": 30103,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "San Nicolás",
+    "CODIGO": 30104,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Aguacaliente o San Francisco",
+    "CODIGO": 30105,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Guadalupe o Arenilla",
+    "CODIGO": 30106,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Corralillo",
+    "CODIGO": 30107,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Tierra Blanca",
+    "CODIGO": 30108,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Dulce Nombre",
+    "CODIGO": 30109,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Llano Grande",
+    "CODIGO": 30110,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Cartago",
+    "DISTRITO": "Quebradilla",
+    "CODIGO": 30111,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Paraíso",
+    "CODIGO": 30201,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Santiago",
+    "CODIGO": 30202,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Orosi",
+    "CODIGO": 30203,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Cachí",
+    "CODIGO": 30204,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Paraíso",
+    "DISTRITO": "Llanos de Santa Lucía",
+    "CODIGO": 30205,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "Tres Ríos",
+    "CODIGO": 30301,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "San Diego",
+    "CODIGO": 30302,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "San Juan",
+    "CODIGO": 30303,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 30304,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "Concepción",
+    "CODIGO": 30305,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "Dulce Nombre",
+    "CODIGO": 30306,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "San Ramón",
+    "CODIGO": 30307,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "La Unión",
+    "DISTRITO": "Río Azul",
+    "CODIGO": 30308,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 30701,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "Cot",
+    "CODIGO": 30702,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "Potrero Cerrado",
+    "CODIGO": 30703,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "Cipreses",
+    "CODIGO": 30704,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "Oreamuno",
+    "DISTRITO": "Santa Rosa",
+    "CODIGO": 30705,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "El Guarco",
+    "DISTRITO": "Tejar",
+    "CODIGO": 30801,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "El Guarco",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 30802,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "El Guarco",
+    "DISTRITO": "Tobosi",
+    "CODIGO": 30803,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Cartago",
+    "CANTON": "El Guarco",
+    "DISTRITO": "Patio de Agua",
+    "CODIGO": 30804,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Heredia",
+    "CODIGO": 40101,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Mercedes",
+    "CODIGO": 40102,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "San Francisco",
+    "CODIGO": 40103,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Ulloa",
+    "CODIGO": 40104,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Heredia",
+    "DISTRITO": "Varablanca",
+    "CODIGO": 40105,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "Barva",
+    "CODIGO": 40201,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 40202,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "San Pablo",
+    "CODIGO": 40203,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "San Roque",
+    "CODIGO": 40204,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "Santa Lucía",
+    "CODIGO": 40205,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Barva",
+    "DISTRITO": "San José de la Montaña",
+    "CODIGO": 40206,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "Santo Domingo",
+    "CODIGO": 40301,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "San Vicente",
+    "CODIGO": 40302,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "San Miguel",
+    "CODIGO": 40303,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "Paracito",
+    "CODIGO": 40304,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "Santo Tomás",
+    "CODIGO": 40305,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "Santa Rosa",
+    "CODIGO": 40306,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "Tures",
+    "CODIGO": 40307,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santo Domingo",
+    "DISTRITO": "Pará",
+    "CODIGO": 40308,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santa Bárbara",
+    "DISTRITO": "Santa Bárbara",
+    "CODIGO": 40401,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santa Bárbara",
+    "DISTRITO": "San Pedro",
+    "CODIGO": 40402,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santa Bárbara",
+    "DISTRITO": "San Juan",
+    "CODIGO": 40403,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santa Bárbara",
+    "DISTRITO": "Jesús",
+    "CODIGO": 40404,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santa Bárbara",
+    "DISTRITO": "Santo Domingo",
+    "CODIGO": 40405,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Santa Bárbara",
+    "DISTRITO": "Purabá",
+    "CODIGO": 40406,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Rafael",
+    "DISTRITO": "San Rafael",
+    "CODIGO": 40501,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Rafael",
+    "DISTRITO": "San Josecito",
+    "CODIGO": 40502,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Rafael",
+    "DISTRITO": "Santiago",
+    "CODIGO": 40503,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Rafael",
+    "DISTRITO": "Ángeles",
+    "CODIGO": 40504,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Rafael",
+    "DISTRITO": "Concepción",
+    "CODIGO": 40505,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Isidro",
+    "DISTRITO": "San Isidro",
+    "CODIGO": 40601,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Isidro",
+    "DISTRITO": "San José",
+    "CODIGO": 40602,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Isidro",
+    "DISTRITO": "Concepción",
+    "CODIGO": 40603,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Isidro",
+    "DISTRITO": "San Francisco",
+    "CODIGO": 40604,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Belén",
+    "DISTRITO": "San Antonio",
+    "CODIGO": 40701,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Belén",
+    "DISTRITO": "Rivera",
+    "CODIGO": 40702,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Belén",
+    "DISTRITO": "La Asunción",
+    "CODIGO": 40703,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Flores",
+    "DISTRITO": "San Joaquín",
+    "CODIGO": 40801,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Flores",
+    "DISTRITO": "Barrantes",
+    "CODIGO": 40802,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "Flores",
+    "DISTRITO": "Llorente",
+    "CODIGO": 40803,
+    "ESTATUS": "URBANO"
+  },
+  {
+    "PROVINCIA": "Heredia",
+    "CANTON": "San Pablo",
+    "DISTRITO": "San Pablo",
+    "CODIGO": 40901,
+    "ESTATUS": "URBANO"
+  }
+]

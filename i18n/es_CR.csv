@@ -1,0 +1,30 @@
+Province,Provincia
+"Choose canton","Escoger canton"
+Canton,Canton
+"Choose district","Escoger distrito"
+District,Distrito
+"Field ","Campo "
+" is required."," es requerido."
+"Red Logistic","Red Logistic"
+"Production Service URL","Production Service URL"
+"Production User","Production User"
+"Production Password","Production Password"
+"Sandbox Enabled","Sandbox Enabled"
+"Sandbox Service URL","Sandbox Service URL"
+"Sandbox User","Sandbox User"
+"Sandbox Password","Sandbox Password"
+Enabled,Habilitado
+Title,Título
+"Method Name","Method Name"
+"Shipping Cost","Shipping Cost"
+"Ship to Applicable Countries","Ship to Applicable Countries"
+"Ship to Specific Countries","Ship to Specific Countries"
+"Show Method if Not Applicable","Show Method if Not Applicable"
+"Sort Order","Sort Order"
+"Client Code","Client Code"
+"Client Type","Client Type"
+"Service Code","Service Code"
+"Company Postal Code","Company Postal Code"
+"Company Address","Company Address"
+"Company Name","Company Name"
+"Company Telephone","Company Telephone"

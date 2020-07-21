@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Webapi:etc/webapi.xsd">
+    <route url="/V1/redlogistic/provinces" method="GET">
+        <service class="Bananacode\RedLogistic\Api\RedLogisticInterface" method="provinces"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route url="/V1/redlogistic/cities/:province_code" method="GET">
+        <service class="Bananacode\RedLogistic\Api\RedLogisticInterface" method="cities"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route url="/V1/redlogistic/districts/:province_code/:city_code" method="GET">
+        <service class="Bananacode\RedLogistic\Api\RedLogisticInterface" method="districts"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route url="/V1/redlogistic/tracking/:number" method="GET">
+        <service class="Bananacode\RedLogistic\Api\RedLogisticInterface" method="track"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+    <route url="/V1/redlogistic/guide/:order_id" method="GET">
+        <service class="Bananacode\RedLogistic\Api\RedLogisticInterface" method="guide"/>
+        <resources>
+            <resource ref="anonymous"/>
+        </resources>
+    </route>
+</routes>
